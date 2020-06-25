@@ -15,3 +15,5 @@ This website provides various ideas of ways to stay entertained and socially con
 - [W3 Schools Section on Link Titles helped me to create the proper links](https://www.w3schools.com/html/html_links.asp)
 - [W3 Schools on image positioning](https://www.w3schools.com/howto/howto_css_image_center.asp)
 - [W3 Schools on 3 Column Layout](https://www.w3schools.com/howto/howto_css_three_columns.asp)
+- [Help with prompts came from W3 Schools](https://www.w3schools.com/jsref/met_win_prompt.asp)
+- [Confirm box... also W3 Schools](https://www.w3schools.com/jsref/met_win_confirm.asp)

@@ -3,8 +3,73 @@ body {
     font-family: Tahoma, Geneva, sans-serif, Times;
 }
 
+nav > ul > li {
+    display: inline;
+    border: solid 2px black;
+    padding: 5px;
+    margin: 40px 40px 20px 20px;
+}
+    
+nav > ul {
+    text-align: center;
+    background-color: #7A6051;
+    padding: 30px;
+    margin: 40px 40px 20px 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif, Times;
+    color: #6ca365;
+    font-size: xxx-large;
+ }
+
+h4 {
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif, Times;
+    color: #6ca365;
+    background-color: #7A6051;
+    margin: 20px 0px 0px 0px;
+    padding-bottom: 0%;
+    font-size: large;
+ }
+
+ .tile{
+     width: 90%;
+ }
+
+ #main{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 90%;
+ }
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 
+
+
+/* other examples from class:
+
+#other, #hero_section{
+    text-align: center;
+}
+
+#hero {
+    width: 500px;
+}
+
+*/
 
 
 /* Group Decisions on Formatting
@@ -12,15 +77,11 @@ body {
 Font Family:  Tahoma, Geneva, sans-serif
 
 Color palette:
-#637C99 blue
-11:16
-#8A5991
-11:17
-#7A6051
-11:17
-#807C4E
-11:17
-#33754E
+#637C99 blue homescreen
+#8A5991 purple online
+#7A6051 brown nav bar
+#807C4E olive indoor
+#33754E green outdoor
 
 Main Color Uses:
 indoor: olive

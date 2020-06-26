@@ -24,6 +24,12 @@ h1 {
     font-size: xxx-large;
  }
 
+ h2 {
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif, Times;
+    font-size: medium;
+ }
+
 h4 {
     text-align: center;
     font-family: Tahoma, Geneva, sans-serif, Times;
